@@ -1,5 +1,5 @@
 // https://www.omdbapi.com/?s=movieName&apikey=key -->
-const key = "ce762116"
+const key = "628c4a2b"
 const moviesHtml = document.getElementById('movies-div')
 const searchField = document.getElementById('search-field')
 const searchButton = document.getElementById('search-btn')
